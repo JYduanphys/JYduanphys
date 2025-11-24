@@ -1,7 +1,8 @@
 - 👋 I’m JY
-- 🌱 I’m major in theoretical physics 
-- 👀 I’m interested in nanophotonics and CMP
-- 📫 Email:2451208182@qq.com
+- 🌱 Phd candicate in Physics 
+- 👀 I’m interested in nanophotonics and topological physics
+- 📫 Email:trivialjy@gmail.com
+- I'm so bad in coding :(
 
 <!---
 JYduanphys/JYduanphys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
